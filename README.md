@@ -2,4 +2,4 @@
 
 Mi primer repositorio 
 
-Esta es la actividad de la Clase 9 de ARQ de software y SO
+i love :cat:, :dog:, :ice_cream:
